@@ -1,4 +1,4 @@
-(https://www.google.com/imgres?q=%20coding&imgurl=ht
+
 <h1 align="center">Hi 👋, I'm Suny Kumar</h1>
 <h3 align="center">A passionate SEO Expert and fronted Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20images%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDesigner.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=b--bk1P-UN_2XM&vet=12ahUKEwjawenlpuyFAxVngP0HHQlCBYMQM3oECHgQAA..i&w=304&h=174&hcb=2&ved=2ahUKEwjawenlpuyFAxVngP0HHQlCBYMQM3oECHgQAA">
